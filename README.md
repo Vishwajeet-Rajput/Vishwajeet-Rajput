@@ -15,11 +15,14 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vishwajeet-rajput-92b685218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishwajeet-rajput-92b685218/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwajeet-rajput&show_icons=true&locale=en&layout=compact" alt="vishwajeet-rajput" /></p>
+
+
+
+
+<h3 align="left">Tech Stack:</h3>
 
 
 ![Google_Sheets_logo_(2014-2020) svg](https://user-images.githubusercontent.com/88282209/219849720-ed8644c5-99ad-48fb-96b2-f1b0482c53a4.png)
